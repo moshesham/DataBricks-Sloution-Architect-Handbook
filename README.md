@@ -90,14 +90,3 @@ The initial draft of this handbook was generated using an AI language model, ser
 
 While we strive to provide accurate and up-to-date information, the content of this handbook is for informational purposes only and should not be considered as professional advice. Always consult with a qualified expert for specific guidance related to your situation.
 
----
-
-**Note:** This `README.md` file provides a high-level overview of the handbook. You can further enhance it by adding sections on:
-
-*   **Getting Started:** Instructions on how to access and navigate the repository, set up a development environment (if applicable), and build the handbook locally.
-*   **Code Examples:** Information about any accompanying code examples or demo projects.
-*   **Resources:** Links to relevant Databricks documentation, tutorials, blogs, and other learning materials.
-*   **Contact:** Information on how to get in touch with the maintainers of the repository.
-*   **Roadmap:** Outline of planned future additions or improvements to the handbook.
-
-Remember to create a `LICENSE` file in your repository (e.g., `LICENSE`) and include the full text of the MIT License or any other license you choose to use.
